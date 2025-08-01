@@ -8,3 +8,5 @@ Repositório de estudos para o desenvolvimento de uma **API RESTful** utilizando
 * Supabase PostrgreSQL Database
 
 ``Aplicação organizada com arquitetura em camadas, visando separação de responsabilidades e escalabilidade.``
+
+<img src="architecture.png"><br>
